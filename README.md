@@ -15,3 +15,5 @@
 | Topic | Link |
 | -- | -- |
 | WebStreaming on web | https://medium.com/canal-tech/how-video-streaming-works-on-the-web-an-introduction-7919739f7e1 |
+
+Zoom SDK https://medium.com/zoom-developer-blog/power-up-your-app-with-zoom-sdk-2621312261b9
